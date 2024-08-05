@@ -1,0 +1,11 @@
+[package]
+name = "agify"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+reqwest = "0.12.5"
+serde = "1.0.204"
+tokio = "1.39.2"
