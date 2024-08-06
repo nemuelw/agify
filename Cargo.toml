@@ -1,8 +1,11 @@
 [package]
 name = "agify"
 description = "Rust client for the agify.io API"
-version = "0.1.1"
+version = "0.1.2"
 license = "MIT"
+documentation = "https://docs.rs/agify"
+homepage = "https://github.com/nemuelw/agify"
+repository = "https://github.com/nemuelw/agify"
 authors = ["Nemuel Wainaina"]
 edition = "2021"
 
